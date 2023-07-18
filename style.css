@@ -1,0 +1,127 @@
+/* nav part */
+.nav-container{
+    display: flex;
+    gap: 550px;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+.nav-img{
+    display: flex;
+    gap: 20px;
+}
+.nav-img1{
+    width: 86.041px;
+height: 40px;
+flex-shrink: 0;
+}
+.nav-h1{
+    text-align: center;
+font-family: Work Sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: -8px;
+}
+.g{
+    color: #ff42a5;
+}
+.nav-button p a{
+    text-decoration: none;
+    border: none;
+    color: #3C354F;
+text-align: center;
+font-family: Work Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.nav-button{
+    display: flex;
+    gap: 20px;
+}
+
+/* banner part */
+.banner{
+    display: flex;
+    gap: 300px;
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.banner-h3{
+    color: #0B0223;
+text-align: center;
+font-family: Work Sans;
+font-size: 35px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: uppercase;
+margin-left: -20px;
+}
+.banner-h1{
+    text-align: center;
+font-family: Work Sans;
+font-size: 70px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+text-transform: uppercase;
+background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+margin-left: -40px;
+}
+.banner-p{
+    color: #534C64;
+/* text-align: center; */
+font-family: Work Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: lowercase;
+margin-left: 40px;
+}
+.banner-button1{
+    color: #FFF;
+font-family: Work Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: uppercase;
+display: inline-flex;
+padding: 21px 40px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 48px;
+background: var(--linear, linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%));
+border: none;
+margin-left: 40px;
+}
+.banner-button2{
+    color: #FFF;
+font-family: Work Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: uppercase;
+display: inline-flex;
+padding: 21px 40px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 48px;
+background: #4EC5F7;
+border: none;
+}
+.banner-button{
+    display: flex;
+    gap: 10px;
+} 
+.banner-leatter{
+    margin-top: 80px;
+}
