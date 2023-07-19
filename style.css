@@ -387,6 +387,7 @@ line-height: normal;
     padding: 5px;
     border-radius: 50px;
 }
+
 /* footer file */
 .footer{
     display: block;
@@ -649,7 +650,7 @@ line-height: normal;
 
 
 }
- /* @media screen and (max-width:768px) {
+@media screen and (min-width: 557px) and (max-width: 768px) {
 
 .nav-container{
     display: block;
@@ -680,6 +681,10 @@ line-height: normal;
     gap: 50px;
     margin-left: 30px;
 }
+/* .banner-button1{
+    padding: 10px;
+    font-size: 10px;
+} */
 .banner img{
     height: 320px;
     width: 320px;
@@ -693,14 +698,15 @@ line-height: normal;
     margin-top: -50px;
 }
 .first-p{
-    margin-left: -150px;
+    margin-left: -50px;
+    margin-right: -0px;
 }
 .first-b{
     margin-left: -50px;
 }
-.first-p{
+/* .first-p{
     margin-left: 100px;
-} 
+}  */
 .body-part2{
     margin-top: -2px;
 }
@@ -751,4 +757,4 @@ line-height: normal;
 
 
     
-} */
+}  
